@@ -1,0 +1,2 @@
+Ported original source code from Visual Studio 2022 to Visual Studio 2010 for old IDE compatibility.
+Retargeted .NET framework from v4.8 to .NET v4.0.
